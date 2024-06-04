@@ -7,15 +7,19 @@ We find that for $x > 50$, the effective cutoffs of the three models is consiste
 ### Results
 
 Original Results
-![screenshot](https://github.com/nexync/timestamp_images/blob/main/c4_5000.pdf)
+
+![alt text](https://github.com/nexync/timestamp_images/blob/main/imgs/c4_5000-1.png)
 
 Extra Ablations
-![alt text](https://github.com/nexync/timestamp_images/blob/main/c4_2500.pdf)
 
-![alt text](https://github.com/nexync/timestamp_images/blob/main/c4_1000.pdf)
+![alt text](https://github.com/nexync/timestamp_images/blob/main/imgs/c4_2500-1.png)
 
-![alt text](https://github.com/nexync/timestamp_images/blob/main/c4_500.pdf)
+![alt text](https://github.com/nexync/timestamp_images/blob/main/imgs/c4_1000-1.png)
 
-![alt text](https://github.com/nexync/timestamp_images/blob/main/c4_100.pdf)
+![alt text](https://github.com/nexync/timestamp_images/blob/main/imgs/c4_500-1.png)
 
-![alt text](https://github.com/nexync/timestamp_images/blob/main/c4_500.pdf)
+![alt text](https://github.com/nexync/timestamp_images/blob/main/imgs/c4_100-1.png)
+
+![alt text](https://github.com/nexync/timestamp_images/blob/main/imgs/c4_50-1.png)
+
+
